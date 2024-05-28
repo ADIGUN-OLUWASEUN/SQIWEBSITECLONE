@@ -1,0 +1,26 @@
+@media(max-width:1024px){
+    .first-section-fixed-social-icon{
+        display: none;
+    }
+    .first-section-fixed-social-icon-whatsapp{
+        display: none;
+    }
+    .first-section-container span{
+        display: none;
+    }
+}
+
+/* @media(max-width:981px){
+    .eight-section-container .eight-section-container-parent .eight-section-container-box{
+        flex-wrap: wrap !important;
+    }
+} */
+
+@media(max-width:490px){
+    .nav-body-design .logo-design{
+        margin-left: 2%;
+    }
+    .nav-body-design .container-fluid .button-design{
+        margin-left: -10% !important;
+    }
+}

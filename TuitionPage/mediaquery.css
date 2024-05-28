@@ -1,0 +1,39 @@
+@media(max-width:1024px){
+    .first-section-fixed-social-icon{
+        display: none;
+    }
+    .first-section-fixed-social-icon-whatsapp{
+        display: none;
+    }
+    .first-section-container span{
+        display: none;
+    }
+}
+@media(max-width:680px){
+    .second-section-container h3{
+        font-size: 36px;
+        text-align: end;
+        margin-top: 40%;
+    }
+}
+@media(max-width:425px){
+    .second-section-container h3{
+        font-size: 34px;
+        text-align: center;
+        margin-top: 60%;
+    }
+}
+@media(max-width:266px){
+    .second-section-container h3{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 80%;
+    }
+}
+@media(max-width:170px){
+    .second-section-container h3{
+        font-size: 20px;
+        text-align: center;
+        margin-top: 150%;
+    }
+}
