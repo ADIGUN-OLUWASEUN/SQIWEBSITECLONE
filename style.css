@@ -488,7 +488,7 @@
     position: absolute;
     /* background-image: url(../images/seventh\ pics.jpg); */
     /* background-image: rgb(to top, rgba(0, 0, 0, 0.406), rgba(0, 0, 0, 0.174), rgba(0, 0, 0, 0.306)), url(../images/seventh\ pics.jpg); */
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.84),rgba(0, 0, 0, 0.521),rgba(0, 0, 0, 0.904)), url(./images/seventh\ pics.jpg);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.84),rgba(0, 0, 0, 0.521),rgba(0, 0, 0, 0.904)), url(./images/seventhPics.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     top: 12%;
