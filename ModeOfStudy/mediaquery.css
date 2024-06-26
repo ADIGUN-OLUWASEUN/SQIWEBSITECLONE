@@ -24,6 +24,12 @@
         margin-top: 60%;
     }
 }
+@media(max-width:320px){
+    .fourth-section-container p, .fifth-section-container-child2 p, .sixth-section-container-child2 p, .seventh-section-container-child2 p{
+        margin-left: 5%;
+    }
+    
+}
 @media(max-width:266px){
     .second-section-container h3{
         font-size: 14px;

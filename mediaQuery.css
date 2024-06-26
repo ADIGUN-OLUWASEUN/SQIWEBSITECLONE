@@ -24,3 +24,32 @@
         margin-left: -10% !important;
     }
 }
+
+@media(max-width:320px){
+    .first-section img{
+        margin-top: 80px;
+    }
+    .second-section-container h2{
+        margin-top: 70px;
+        margin-left: 5%;
+    }
+    .second-section-container p{
+        margin-left: 7%;
+    }
+    .second-section-container button{
+        margin: auto;
+    }
+    .fourth-section-container h4, p, h5, ul{
+        margin-left: 5%;
+    }
+    .fourth-section-container button{
+        margin: auto;
+    }
+    .fifth-section-container h3{
+        font-size: 24px;
+    }
+    .seventh-section-container-parent .center-box h2{
+        font-size: 30px;
+        margin-top: 10%;
+    }
+}
